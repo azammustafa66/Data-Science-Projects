@@ -19,22 +19,21 @@ This repository contains a Jupyter notebook that performs a simple linear regres
 
 You can install the required packages using `pip`:
 
-\`\`\`bash
+`bash
 pip install pandas numpy matplotlib jupyter
-\`\`\`
+`
 
 ## Usage
 
 1. **Clone the repository**:
-   \`\`\`bash
-   git clone <repository_url>
-   cd <repository_directory>
-   \`\`\`
+   `bash
+   git clone <https://github.com/azammustafa66/Data-Science-Projects/tree/main/Simple%20Linear%20Regression>
+   `
 
 2. **Open the Jupyter notebook**:
-   \`\`\`bash
-   jupyter notebook updated_regression.ipynb
-   \`\`\`
+   `bash
+   jupyter notebook regression.ipynb
+   `
 
 3. **Run the notebook**:
    Follow the steps in the notebook to load the dataset, visualize the data, calculate the line of best fit, plot the best fit line, and make predictions.
