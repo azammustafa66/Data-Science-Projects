@@ -19,9 +19,7 @@ This repository contains a Jupyter notebook that performs a simple linear regres
 
 You can install the required packages using `pip`:
 
-`bash
-pip install pandas numpy matplotlib jupyter
-`
+`pip install pandas numpy matplotlib jupyter
 
 ## Usage
 
