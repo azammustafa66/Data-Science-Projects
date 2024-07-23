@@ -14,7 +14,6 @@ build/
 *.pkl
 *.h5
 *.model
-*.txt
 *.json
 *.html
 *.png
